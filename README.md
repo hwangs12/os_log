@@ -11,4 +11,6 @@ Learning Operating System and Loggin as I progress
 -   To hack on Linux you'll need to write at least one OS
 -   open pathways to various low level programming
 
-##
+## Prerequisites
+
+-   Electrical Engineering Basics https://www.allaboutcircuits.com/textbook/

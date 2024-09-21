@@ -14,3 +14,5 @@ Learning Operating System and Loggin as I progress
 ## Prerequisites
 
 -   Electrical Engineering Basics https://www.allaboutcircuits.com/textbook/
+
+### Chatper 2: From hardware to software: Layers of abstraction

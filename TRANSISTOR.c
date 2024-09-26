@@ -1,0 +1,1 @@
+// remotely control switch, can control voltage

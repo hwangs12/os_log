@@ -6,4 +6,4 @@
 
 // consists of collector pin, base pin, and emitter pin
 
-//  higher voltage on 
+// NPN: higher voltage on 

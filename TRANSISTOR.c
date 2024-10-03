@@ -6,4 +6,4 @@
 
 // consists of collector pin, base pin, and emitter pin
 
-// NPN: higher voltage on 
+// NPN: higher voltage on base pin, transistor fully open

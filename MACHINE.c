@@ -5,3 +5,5 @@
 // in x86, 10100000 means add two numbers
 
 // 000000101 to halt a computer
+
+// it's amazing.s

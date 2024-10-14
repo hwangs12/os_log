@@ -6,4 +6,8 @@
 
 // 000000101 to halt a computer
 
-// it's amazing.s
+// it's amazing.
+
+// NAND is simply opposite of AND
+
+// when BOTH TRUE, IT'S FALSE IN NAND

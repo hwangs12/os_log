@@ -11,3 +11,9 @@
 // NAND is simply opposite of AND
 
 // when BOTH TRUE, IT'S FALSE IN NAND
+
+// computer essentially implements this:
+
+// 1. fetch an instruction from storage device
+// 2. decode the instruction from decoder
+// 3. execute the instruction send instruction to device

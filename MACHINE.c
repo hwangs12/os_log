@@ -17,3 +17,6 @@
 // 1. fetch an instruction from storage device
 // 2. decode the instruction from decoder
 // 3. execute the instruction send instruction to device
+
+
+// abstraction is byproduct of recurring patterns. 
